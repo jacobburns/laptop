@@ -71,7 +71,7 @@ The script is fairly complex, and configures student laptops for our training co
 
 ### Todo
 
-* Split into multiple Scripts
+* Split into multiple Scripts:
     - Config: Basic config stuff and all the curl stuff
     - Install: Homebrew and all the Apps
     - VM: The VM installation
